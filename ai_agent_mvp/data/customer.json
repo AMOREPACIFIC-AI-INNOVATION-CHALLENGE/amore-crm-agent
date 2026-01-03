@@ -1,0 +1,8 @@
+[
+  {
+    "id": "C001",
+    "profile": { "skin_type": "건성", "concerns": ["수분", "건조"] },
+    "logs": { "recent_search": ["환절기 건조함 해결"], "recent_viewed": ["워터뱅크 수분 크림"], "cart": [] },
+    "context": { "weather": "건조", "season": "환절기" }
+  }
+]
