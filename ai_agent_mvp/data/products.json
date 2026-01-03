@@ -1,0 +1,41 @@
+[
+  {
+    "product_id": "P001",
+    "brand_id": "LANEIGE",
+    "name": "워터뱅크 수분 크림",
+    "summary": "건조함 완화, 데일리 보습 루틴",
+    "keywords": ["수분", "보습", "속당김", "건조"],
+    "target_personas": ["P3_HYDRATION", "P6_DAILY_BASIC"],
+    "season_tags": ["환절기", "겨울", "건조"],
+    "ingredients": ["히알루론산", "보습 복합체"],
+    "efficacy": ["보습", "수분 장벽 케어"],
+    "usage": "세안 후 크림 단계에서 적당량을 펴 바르세요.",
+    "review_summary_bullets": ["속당김이 줄었다", "데일리로 쓰기 편하다"]
+  },
+  {
+    "product_id": "P002",
+    "brand_id": "LANEIGE",
+    "name": "시카 진정 토너",
+    "summary": "민감 피부를 위한 진정 토너",
+    "keywords": ["진정", "민감", "트러블", "자극"],
+    "target_personas": ["P1_NATURAL_HEALING", "P6_DAILY_BASIC"],
+    "season_tags": ["환절기"],
+    "ingredients": ["시카 성분"],
+    "efficacy": ["진정", "피부 컨디션 케어"],
+    "usage": "화장솜 또는 손으로 부드럽게 흡수시켜 주세요.",
+    "review_summary_bullets": ["자극이 적다", "붉은기가 가라앉았다"]
+  },
+  {
+    "product_id": "P004",
+    "brand_id": "LANEIGE",
+    "name": "리프팅 크림",
+    "summary": "탄력 케어, 윤기",
+    "keywords": ["탄력", "주름", "윤기", "리프팅"],
+    "target_personas": ["P2_LUXURY_CARE"],
+    "season_tags": ["겨울"],
+    "ingredients": ["펩타이드"],
+    "efficacy": ["탄력 케어", "윤기 케어"],
+    "usage": "마무리 단계에서 얼굴 라인을 따라 펴 바르세요.",
+    "review_summary_bullets": ["피부가 탄탄해 보인다"]
+  }
+]
